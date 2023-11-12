@@ -14,5 +14,5 @@ public partial class Usuario
     public string? Clave { get; set; }
 
 
-    public string[] Roles { get; set; }
+    
 }

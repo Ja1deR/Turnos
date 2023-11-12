@@ -11209,19 +11209,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saram\\.nuget\\packages\\": {}
+    "C:\\Users\\Jaide\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saram\\OneDrive\\Escritorio\\programacion\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys.csproj",
+      "projectUniqueName": "C:\\Descargas\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys.csproj",
       "projectName": "ProyectoGladys",
-      "projectPath": "C:\\Users\\saram\\OneDrive\\Escritorio\\programacion\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys.csproj",
-      "packagesPath": "C:\\Users\\saram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saram\\OneDrive\\Escritorio\\programacion\\ProyectoGladys\\ProyectoGladys\\obj\\",
+      "projectPath": "C:\\Descargas\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys.csproj",
+      "packagesPath": "C:\\Users\\Jaide\\.nuget\\packages\\",
+      "outputPath": "C:\\Descargas\\ProyectoGladys\\ProyectoGladys\\ProyectoGladys\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\saram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jaide\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

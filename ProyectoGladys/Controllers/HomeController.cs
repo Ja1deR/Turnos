@@ -6,6 +6,7 @@ using ProyectoGladys.Models;
 using System.Diagnostics;
 using System.Security.Claims;
 
+
 namespace ProyectoGladys.Controllers
 {
     [Authorize]
@@ -51,7 +52,7 @@ namespace ProyectoGladys.Controllers
         {
             return View();
         }
-
+		
         public IActionResult Estudiantes()
         {
             return View();

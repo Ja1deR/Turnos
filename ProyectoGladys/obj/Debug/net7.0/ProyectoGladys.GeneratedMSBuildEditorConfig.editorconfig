@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoGladys
 build_property.RootNamespace = ProyectoGladys
-build_property.ProjectDir = C:\Users\saram\OneDrive\Escritorio\programacion\ProyectoGladys\ProyectoGladys\
+build_property.ProjectDir = C:\Descargas\ProyectoGladys\ProyectoGladys\ProyectoGladys\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\saram\OneDrive\Escritorio\programacion\ProyectoGladys\ProyectoGladys
+build_property.MSBuildProjectDirectory = C:\Descargas\ProyectoGladys\ProyectoGladys\ProyectoGladys
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Home/Estudiantes.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Home/Estudiantes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc3R1ZGlhbnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Home/Horario.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Home/Horario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3JhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Home/Index.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Home/PreRequisitos.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Home/PreRequisitos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVSZXF1aXNpdG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Home/Privacy.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Home/Turnos.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Home/Turnos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXJub3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Inicio/IniciarSesion.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Inicio/IniciarSesion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluaWNpYXJTZXNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Inicio/Registrarse.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Inicio/Registrarse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFJlZ2lzdHJhcnNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Shared/Error.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/_ViewImports.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/_ViewStart.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saram/OneDrive/Escritorio/programacion/ProyectoGladys/ProyectoGladys/Views/Shared/_Layout.cshtml]
+[C:/Descargas/ProyectoGladys/ProyectoGladys/ProyectoGladys/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2osgv7x5xi

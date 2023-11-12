@@ -4,5 +4,6 @@ namespace ProyectoGladys.DATA
 {
     public class DA_Logica
     {
+       
     }
 }

@@ -5,7 +5,7 @@ using ProyectoGladys.Servicios.Contrato;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
-
+using ProyectoGladys.DATA;
 
 namespace ProyectoGladys.Controllers
 {
@@ -67,5 +67,10 @@ namespace ProyectoGladys.Controllers
 				);
 			return RedirectToAction("Index", "Home");
 		}
-	}
+
+		
+        
+
+
+    }
 }
